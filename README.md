@@ -2,7 +2,7 @@
 Exercises and material for a 3-hour workshop for BeCode students.
 
 ## Presentation
-The link to the slides can be found here.
+The link to the slides can be found [here](https://github.com/0ctavia/dockernight/blob/master/dockerpresentation.odp).
 
 ## Exercises
 

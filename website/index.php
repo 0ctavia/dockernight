@@ -3,10 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <title>Welcome to the Dockernight webpage</title>
-<?php echo "<body style='background-color:pink'>"; ?>
 </head>
 <body>
+<style>
+body {
+  background-color: pink;
+}
+</style>
     <h1>Welcome to the Dockernight webpage</h1>
+<p>Congratulations, you mounted a volume onto your container.</p>
 
 </body>
 </html>
